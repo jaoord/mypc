@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7140430dc998ee56",
+        "id": "f2a1e6d212f82f87",
         "type": "tabs",
         "children": [
           {
-            "id": "e51cab4c836495da",
+            "id": "21223a064c449dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC config/Software.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC config/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC config/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PC config/Software.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e51cab4c836495da",
-  "lastOpenFiles": []
+  "active": "21223a064c449dfb",
+  "lastOpenFiles": [
+    "MSFS/Software.md",
+    "PC config/Software.md",
+    "PC config/Drivers etc.md",
+    "PC config/Specific Windows settings.md",
+    "MSFS/Config.md",
+    "PC Reinstallation/2. Backup information.md",
+    "PC Reinstallation/1. To Do before reinstall.md",
+    "Index.md",
+    "PC config/Hardware.md"
+  ]
 }
